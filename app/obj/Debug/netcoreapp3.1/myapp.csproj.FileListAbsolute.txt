@@ -1,0 +1,11 @@
+/Users/mbarighzaai/code/dotnet-core-hello/app/bin/Debug/netcoreapp3.1/myapp
+/Users/mbarighzaai/code/dotnet-core-hello/app/bin/Debug/netcoreapp3.1/myapp.deps.json
+/Users/mbarighzaai/code/dotnet-core-hello/app/bin/Debug/netcoreapp3.1/myapp.runtimeconfig.json
+/Users/mbarighzaai/code/dotnet-core-hello/app/bin/Debug/netcoreapp3.1/myapp.runtimeconfig.dev.json
+/Users/mbarighzaai/code/dotnet-core-hello/app/bin/Debug/netcoreapp3.1/myapp.dll
+/Users/mbarighzaai/code/dotnet-core-hello/app/bin/Debug/netcoreapp3.1/myapp.pdb
+/Users/mbarighzaai/code/dotnet-core-hello/app/obj/Debug/netcoreapp3.1/myapp.csprojAssemblyReference.cache
+/Users/mbarighzaai/code/dotnet-core-hello/app/obj/Debug/netcoreapp3.1/myapp.AssemblyInfoInputs.cache
+/Users/mbarighzaai/code/dotnet-core-hello/app/obj/Debug/netcoreapp3.1/myapp.AssemblyInfo.cs
+/Users/mbarighzaai/code/dotnet-core-hello/app/obj/Debug/netcoreapp3.1/myapp.dll
+/Users/mbarighzaai/code/dotnet-core-hello/app/obj/Debug/netcoreapp3.1/myapp.pdb
